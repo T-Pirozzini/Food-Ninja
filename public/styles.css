@@ -740,6 +740,10 @@ video {
 }
 
 @media (min-width: 768px){
+  .md\:justify-end{
+    justify-content: flex-end;
+  }
+
   .md\:text-blue-500{
     --tw-text-opacity: 1;
     color: rgb(59 130 246 / var(--tw-text-opacity));
