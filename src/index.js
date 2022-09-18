@@ -1,4 +1,3 @@
-
 const burger = document.querySelector('#burger');
 
 if (burger){
